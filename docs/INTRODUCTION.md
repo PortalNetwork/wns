@@ -19,7 +19,7 @@ The most important use case of the WNS is for transfer, especially those address
 For example, such as ICO smart contract, the project party needs to disclose its official smart contract address in advance on the official website, but it may be modified by hackers. The address, however, it is difficult for investors to find out which is correct or incorrect. If the project party announces a short and easy-to-remember address alias such as WNS, the WNS will be easily recognise, so that the smart contract address can be prevented from being modified by the hacker.
 
 ## The Expandability of WNS
-What kind of resource an alias should point to is flexible and can be implemented just by implementing the corresponding INS resolvers. In addition to pointing to an address, it can also point to a contract address, thus enabling interaction through INS and smart contracts.
+What kind of resource an alias should point to is flexible and can be implemented just by implementing the corresponding WNS resolvers. In addition to pointing to an address, it can also point to a contract address, thus enabling interaction through WNS and smart contracts.
 
 ## Resources
 - [EIP137](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-137.md) - Ethereum Name Service
