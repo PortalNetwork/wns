@@ -4,7 +4,10 @@
 
 > 📖🔍 Documents and implementations for the Wanchain Name Service.
 
-## What is BNS?
+## 💡 What is Wanchain?
+Wanchain is creating a new financial market of digital assets by implementing cross-chain transfers across different blockchains. With the number of various coins, tokens, and blockchains currently in the ecosystem, there’s not currently an efficient, decentralized way to exchange value between them. As an independent blockchain, Wanchain connects the accounts of independent chains to provide a framework to exchange these assets.
+
+## 💡 What is BNS?
 BNS – or blockchain name system – is the protocol on the internet that turns human-comprehensible decentralized website names such as ‘website.perl’ or ‘mywebsite.eth’ into addresses understandable by decentralized network machines.
 
 ## 📝 Description
